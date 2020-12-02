@@ -1,0 +1,88 @@
+{
+  "colorScheme" : {
+    "_colorLeft" : {"r":0.25882354,"g":0.7843138,"b":0.01960784},
+    "_colorRight" : {"r":0,"g":0.71372551,"b":0.67058825},
+    "_envColorLeft" : {"r":0,"g":0.71372551,"b":0.67058825},
+    "_envColorRight" : {"r":0.25882354,"g":0.78431374,"b":0.01960784},
+    "_obstacleColor" : {"r":0,"g":0.81176478,"b":0.09019608},
+    "_envColorLeftBoost" : {"r":0,"g":0,"b":0},
+    "_envColorRightBoost" : {"r":0,"g":0,"b":0}
+  },
+  "props" : {
+    "0" : [
+      {"_type":0,"_propId":1,"_lightId":4,"name":"GlowLineL (11)","position":{"x":8,"y":5,"z":0}},
+      {"_type":0,"_propId":1,"_lightId":9,"name":"GlowLineL (10)","position":{"x":-8,"y":5,"z":0}},
+      {"_type":0,"_propId":1,"_lightId":11,"name":"GlowLineL (12)","position":{"x":-7,"y":5,"z":0}},
+      {"_type":0,"_propId":1,"_lightId":16,"name":"GlowLineL (9)","position":{"x":7,"y":5,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":3,"name":"Laser (14)","position":{"x":-4,"y":-2,"z":40}},
+      {"_type":0,"_propId":0,"_lightId":15,"name":"Laser (19)","position":{"x":4,"y":-2,"z":40}},
+      {"_type":0,"_propId":4,"_lightId":8,"name":"Laser (13)","position":{"x":-4,"y":-2,"z":45}},
+      {"_type":0,"_propId":4,"_lightId":18,"name":"Laser (18)","position":{"x":4,"y":-2,"z":45}},
+      {"_type":0,"_propId":2,"_lightId":5,"name":"Laser (12)","position":{"x":-4,"y":-2,"z":50}},
+      {"_type":0,"_propId":2,"_lightId":7,"name":"Laser (17)","position":{"x":4,"y":-2,"z":50}},
+      {"_type":0,"_propId":5,"_lightId":10,"name":"Laser (16)","position":{"x":4,"y":-2,"z":55}},
+      {"_type":0,"_propId":5,"_lightId":17,"name":"Laser (11)","position":{"x":-4,"y":-2,"z":55}},
+      {"_type":0,"_propId":3,"_lightId":6,"name":"Laser (10)","position":{"x":-4,"y":-2,"z":60}},
+      {"_type":0,"_propId":3,"_lightId":13,"name":"Laser (15)","position":{"x":4,"y":-2,"z":60}}
+    ],
+    "1" : [
+      {"_type":1,"_propId":2,"_lightId":7,"name":"GlowLineL (13)","position":{"x":-5.75,"y":-3.5,"z":11}},
+      {"_type":1,"_propId":2,"_lightId":13,"name":"GlowLineL (19)","position":{"x":-5.75,"y":-4.5,"z":11}},
+      {"_type":1,"_propId":2,"_lightId":16,"name":"GlowLineL (23)","position":{"x":5.75,"y":-4.5,"z":11}},
+      {"_type":1,"_propId":2,"_lightId":20,"name":"GlowLineL (15)","position":{"x":5.75,"y":-3.5,"z":11}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowLineL (2)","position":{"x":-2.5,"y":-3.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLineL (21)","position":{"x":9,"y":-4.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":8,"name":"GlowLineL (4)","position":{"x":-9,"y":-3.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":9,"name":"GlowLineL (22)","position":{"x":2.5,"y":-4.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":10,"name":"GlowLineL (7)","position":{"x":9,"y":-3.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":12,"name":"GlowLineL (8)","position":{"x":2.5,"y":-3.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":14,"name":"GlowLineL (17)","position":{"x":-2.5,"y":-4.5,"z":14.25}},
+      {"_type":1,"_propId":0,"_lightId":15,"name":"GlowLineL (18)","position":{"x":-9,"y":-4.5,"z":14.25}},
+      {"_type":1,"_propId":1,"_lightId":5,"name":"GlowLineL (20)","position":{"x":-5.75,"y":-4.5,"z":17.5}},
+      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLineL (16)","position":{"x":5.75,"y":-3.5,"z":17.5}},
+      {"_type":1,"_propId":1,"_lightId":11,"name":"GlowLineL (24)","position":{"x":5.75,"y":-4.5,"z":17.5}},
+      {"_type":1,"_propId":1,"_lightId":17,"name":"GlowLineL (14)","position":{"x":-5.75,"y":-3.5,"z":17.5}}
+    ],
+    "2" : [
+      {"_type":2,"_propId":1,"_lightId":11,"name":"GlowLineL (1)","position":{"x":-9,"y":0,"z":8}},
+      {"_type":2,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-12,"y":0.25,"z":25}},
+      {"_type":2,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":-8,"y":0.25,"z":25}},
+      {"_type":2,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":-10,"y":0.25,"z":25}},
+      {"_type":2,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":-9,"y":0.25,"z":25}},
+      {"_type":2,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":-11,"y":0.25,"z":25}},
+      {"_type":2,"_propId":0,"_lightId":6,"name":"Laser","position":{"x":-13,"y":0.25,"z":25}}
+    ],
+    "3" : [
+      {"_type":3,"_propId":1,"_lightId":9,"name":"GlowLineR (1)","position":{"x":9,"y":0,"z":8}},
+      {"_type":3,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":9,"y":0.25,"z":25}},
+      {"_type":3,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":10,"y":0.25,"z":25}},
+      {"_type":3,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":8,"y":0.25,"z":25}},
+      {"_type":3,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":12,"y":0.25,"z":25}},
+      {"_type":3,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":13,"y":0.25,"z":25}},
+      {"_type":3,"_propId":0,"_lightId":6,"name":"Laser","position":{"x":11,"y":0.25,"z":25}}
+    ],
+    "4" : [
+      {"_type":4,"_propId":2,"_lightId":2,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
+      {"_type":4,"_propId":2,"_lightId":3,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
+      {"_type":4,"_propId":3,"_lightId":6,"name":"armHeartLighting","position":{"x":-3,"y":-1,"z":1.4}},
+      {"_type":4,"_propId":3,"_lightId":7,"name":"armHeartBloodLighting","position":{"x":-3,"y":-1,"z":1.4}},
+      {"_type":4,"_propId":1,"_lightId":1,"name":"Light (4)","position":{"x":0,"y":-6.69,"z":4.392}},
+      {"_type":4,"_propId":0,"_lightId":0,"name":"Light (5)","position":{"x":0,"y":-6.69,"z":5.88}},
+      {"_type":4,"_propId":10,"_lightId":18,"name":"GlowLineL","position":{"x":-2,"y":0,"z":8}},
+      {"_type":4,"_propId":10,"_lightId":25,"name":"GlowLineR","position":{"x":2,"y":0,"z":8}},
+      {"_type":4,"_propId":4,"_lightId":8,"name":"Light (3)","position":{"x":-0.05,"y":6,"z":35}},
+      {"_type":4,"_propId":4,"_lightId":10,"name":"Light (6)","position":{"x":0.05,"y":6,"z":35}},
+      {"_type":4,"_propId":7,"_lightId":13,"name":"Laser (4)","position":{"x":-4,"y":-1.75,"z":40}},
+      {"_type":4,"_propId":7,"_lightId":17,"name":"Laser (9)","position":{"x":4,"y":-1.75,"z":40}},
+      {"_type":4,"_propId":8,"_lightId":15,"name":"Logo","position":{"x":0,"y":5,"z":43}},
+      {"_type":4,"_propId":6,"_lightId":12,"name":"Laser (8)","position":{"x":4,"y":-1.75,"z":45}},
+      {"_type":4,"_propId":6,"_lightId":22,"name":"Laser (3)","position":{"x":-4,"y":-1.75,"z":45}},
+      {"_type":4,"_propId":5,"_lightId":11,"name":"Laser (2)","position":{"x":-4,"y":-1.75,"z":50}},
+      {"_type":4,"_propId":5,"_lightId":14,"name":"Laser (7)","position":{"x":4,"y":-1.75,"z":50}},
+      {"_type":4,"_propId":11,"_lightId":19,"name":"Laser (6)","position":{"x":4,"y":-1.75,"z":55}},
+      {"_type":4,"_propId":11,"_lightId":20,"name":"Laser (1)","position":{"x":-4,"y":-1.75,"z":55}},
+      {"_type":4,"_propId":9,"_lightId":16,"name":"Laser (5)","position":{"x":4,"y":-1.75,"z":60}},
+      {"_type":4,"_propId":9,"_lightId":21,"name":"Laser","position":{"x":-4,"y":-1.75,"z":60}}
+    ]
+  }
+}
