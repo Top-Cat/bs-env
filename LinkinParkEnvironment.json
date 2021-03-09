@@ -77,8 +77,8 @@
     ],
     "4" : [
       {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
-      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
-      {"_type":4,"_propId":1,"_lightId":4,"name":"Light (3)","position":{"x":-0.05,"y":4.65,"z":65}},
+      {"_type":4,"_propId":0,"_lightId":2,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
+      {"_type":4,"_propId":1,"_lightId":1,"name":"LogoLight","position":{"x":0,"y":2,"z":65}},
       {"_type":4,"_propId":2,"_lightId":8,"name":"Logo","position":{"x":0,"y":2,"z":80}}
     ]
   }

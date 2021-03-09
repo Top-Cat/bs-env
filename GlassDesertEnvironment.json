@@ -2,7 +2,7 @@
   "colorScheme" : {
     "_colorLeft" : {"r":0.67924529,"g":0.57126278,"b":0},
     "_colorRight" : {"r":0.70754719,"g":0,"b":0.53644115},
-    "_envColorLeft" : {"r":0.2267711,"g":0.43114197,"b":0.52830189},
+    "_envColorLeft" : {"r":0.32222217,"g":0.6111111,"b":0.75},
     "_envColorRight" : {"r":0.03844783,"g":0.62239975,"b":0.90566039},
     "_obstacleColor" : {"r":0.06167676,"g":0.2869513,"b":0.39622641},
     "_envColorLeftBoost" : {"r":0,"g":0,"b":0},
@@ -10,46 +10,46 @@
   },
   "props" : {
     "0" : [
-      {"_type":0,"_propId":0,"_lightId":2,"name":"TopLaser (3)","position":{"x":-4,"y":5.3,"z":0}},
-      {"_type":0,"_propId":0,"_lightId":3,"name":"TopLaser (1)","position":{"x":5,"y":5.3,"z":0}},
-      {"_type":0,"_propId":0,"_lightId":4,"name":"TopLaser (4)","position":{"x":-5,"y":5.3,"z":0}},
-      {"_type":0,"_propId":0,"_lightId":5,"name":"TopLaser","position":{"x":6,"y":5.3,"z":0}},
-      {"_type":0,"_propId":0,"_lightId":8,"name":"TopLaser (2)","position":{"x":4,"y":5.3,"z":0}},
-      {"_type":0,"_propId":0,"_lightId":9,"name":"TopLaser (5)","position":{"x":-6,"y":5.3,"z":0}}
+      {"_type":0,"_propId":0,"_lightId":3,"name":"TopLaser (3)","position":{"x":-4,"y":5.3,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":4,"name":"TopLaser (1)","position":{"x":5,"y":5.3,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":5,"name":"TopLaser (4)","position":{"x":-5,"y":5.3,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":6,"name":"TopLaser","position":{"x":6,"y":5.3,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":7,"name":"TopLaser (2)","position":{"x":4,"y":5.3,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":8,"name":"TopLaser (5)","position":{"x":-6,"y":5.3,"z":0}}
     ],
     "1" : [
-      {"_type":1,"_propId":2,"_lightId":9,"name":"DownLaser (9)","position":{"x":17.678,"y":3.5,"z":-17.678}},
-      {"_type":1,"_propId":2,"_lightId":5,"name":"DownLaser (10)","position":{"x":-17.678,"y":3.5,"z":-17.678}},
-      {"_type":1,"_propId":1,"_lightId":4,"name":"DownLaser (4)","position":{"x":-14.142,"y":4,"z":-14.142}},
-      {"_type":1,"_propId":1,"_lightId":10,"name":"DownLaser (7)","position":{"x":14.142,"y":4,"z":-14.142}},
-      {"_type":1,"_propId":3,"_lightId":6,"name":"DownLaser (6)","position":{"x":-14.142,"y":4,"z":14.142}},
-      {"_type":1,"_propId":3,"_lightId":11,"name":"DownLaser (5)","position":{"x":14.142,"y":4,"z":14.142}},
-      {"_type":1,"_propId":0,"_lightId":3,"name":"DownLaser (11)","position":{"x":17.678,"y":3.5,"z":17.678}},
-      {"_type":1,"_propId":0,"_lightId":2,"name":"DownLaser (12)","position":{"x":-17.678,"y":3.5,"z":17.678}}
+      {"_type":1,"_propId":2,"_lightId":8,"name":"DownLaser (9)","position":{"x":17.678,"y":3.5,"z":-17.678}},
+      {"_type":1,"_propId":2,"_lightId":6,"name":"DownLaser (10)","position":{"x":-17.678,"y":3.5,"z":-17.678}},
+      {"_type":1,"_propId":1,"_lightId":5,"name":"DownLaser (4)","position":{"x":-14.142,"y":4,"z":-14.142}},
+      {"_type":1,"_propId":1,"_lightId":9,"name":"DownLaser (7)","position":{"x":14.142,"y":4,"z":-14.142}},
+      {"_type":1,"_propId":3,"_lightId":7,"name":"DownLaser (6)","position":{"x":-14.142,"y":4,"z":14.142}},
+      {"_type":1,"_propId":3,"_lightId":10,"name":"DownLaser (5)","position":{"x":14.142,"y":4,"z":14.142}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"DownLaser (11)","position":{"x":17.678,"y":3.5,"z":17.678}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"DownLaser (12)","position":{"x":-17.678,"y":3.5,"z":17.678}}
     ],
     "2" : [
-      {"_type":2,"_propId":3,"_lightId":6,"name":"Laser","position":{"x":2.088,"y":0.4,"z":-15.863}},
-      {"_type":2,"_propId":3,"_lightId":10,"name":"Laser","position":{"x":-2.089,"y":0.4,"z":-15.863}},
-      {"_type":2,"_propId":1,"_lightId":3,"name":"Laser","position":{"x":15.863,"y":0.4,"z":-2.089}},
-      {"_type":2,"_propId":1,"_lightId":2,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":-2.088}},
-      {"_type":2,"_propId":4,"_lightId":8,"name":"Laser","position":{"x":15.863,"y":0.4,"z":2.088}},
-      {"_type":2,"_propId":4,"_lightId":7,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":2.088}},
-      {"_type":2,"_propId":2,"_lightId":4,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":15.863}},
-      {"_type":2,"_propId":2,"_lightId":5,"name":"Laser","position":{"x":2.088,"y":0.4,"z":15.863}},
-      {"_type":2,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-2.611,"y":0.4,"z":19.829}},
-      {"_type":2,"_propId":0,"_lightId":9,"name":"Laser","position":{"x":2.611,"y":0.4,"z":19.829}}
+      {"_type":2,"_propId":2,"_lightId":4,"name":"Laser","position":{"x":2.088,"y":0.4,"z":-15.863}},
+      {"_type":2,"_propId":2,"_lightId":5,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":-15.863}},
+      {"_type":2,"_propId":4,"_lightId":10,"name":"Laser","position":{"x":15.863,"y":0.4,"z":-2.088}},
+      {"_type":2,"_propId":4,"_lightId":7,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":-2.088}},
+      {"_type":2,"_propId":3,"_lightId":6,"name":"Laser","position":{"x":15.863,"y":0.4,"z":2.088}},
+      {"_type":2,"_propId":3,"_lightId":8,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":2.088}},
+      {"_type":2,"_propId":0,"_lightId":9,"name":"Laser","position":{"x":2.088,"y":0.4,"z":15.863}},
+      {"_type":2,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":15.863}},
+      {"_type":2,"_propId":1,"_lightId":3,"name":"Laser","position":{"x":-2.611,"y":0.4,"z":19.829}},
+      {"_type":2,"_propId":1,"_lightId":11,"name":"Laser","position":{"x":2.611,"y":0.4,"z":19.829}}
     ],
     "3" : [
       {"_type":3,"_propId":1,"_lightId":3,"name":"Laser","position":{"x":2.088,"y":0.4,"z":-15.863}},
-      {"_type":3,"_propId":1,"_lightId":2,"name":"Laser","position":{"x":-2.089,"y":0.4,"z":-15.863}},
-      {"_type":3,"_propId":4,"_lightId":10,"name":"Laser","position":{"x":15.863,"y":0.4,"z":-2.089}},
-      {"_type":3,"_propId":4,"_lightId":9,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":-2.088}},
-      {"_type":3,"_propId":2,"_lightId":6,"name":"Laser","position":{"x":15.863,"y":0.4,"z":2.088}},
-      {"_type":3,"_propId":2,"_lightId":4,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":2.088}},
-      {"_type":3,"_propId":3,"_lightId":7,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":15.863}},
-      {"_type":3,"_propId":3,"_lightId":8,"name":"Laser","position":{"x":2.088,"y":0.4,"z":15.863}},
-      {"_type":3,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-2.611,"y":0.4,"z":19.829}},
-      {"_type":3,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":2.611,"y":0.4,"z":19.829}}
+      {"_type":3,"_propId":1,"_lightId":4,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":-15.863}},
+      {"_type":3,"_propId":4,"_lightId":10,"name":"Laser","position":{"x":15.863,"y":0.4,"z":-2.088}},
+      {"_type":3,"_propId":4,"_lightId":7,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":-2.088}},
+      {"_type":3,"_propId":3,"_lightId":6,"name":"Laser","position":{"x":15.863,"y":0.4,"z":2.088}},
+      {"_type":3,"_propId":3,"_lightId":8,"name":"Laser","position":{"x":-15.863,"y":0.4,"z":2.088}},
+      {"_type":3,"_propId":0,"_lightId":11,"name":"Laser","position":{"x":2.088,"y":0.4,"z":15.863}},
+      {"_type":3,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-2.088,"y":0.4,"z":15.863}},
+      {"_type":3,"_propId":2,"_lightId":5,"name":"Laser","position":{"x":-2.611,"y":0.4,"z":19.829}},
+      {"_type":3,"_propId":2,"_lightId":9,"name":"Laser","position":{"x":2.611,"y":0.4,"z":19.829}}
     ],
     "4" : [
       {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
