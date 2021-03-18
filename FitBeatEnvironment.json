@@ -10,10 +10,10 @@
   },
   "props" : {
     "0" : [
-      {"_type":0,"_propId":0,"_lightId":3,"name":"Neon","position":{"x":-1.003,"y":5.078,"z":20}},
-      {"_type":0,"_propId":0,"_lightId":4,"name":"Neon (1)","position":{"x":1.003,"y":-3.078,"z":20}},
-      {"_type":0,"_propId":1,"_lightId":5,"name":"Neon","position":{"x":0,"y":5.2,"z":22}},
-      {"_type":0,"_propId":1,"_lightId":6,"name":"Neon (1)","position":{"x":0,"y":-3.2,"z":22}},
+      {"_type":0,"_propId":0,"_lightId":3,"name":"Neon","position":{"x":-3.186,"y":3.737,"z":20}},
+      {"_type":0,"_propId":0,"_lightId":4,"name":"Neon (1)","position":{"x":3.186,"y":-1.737,"z":20}},
+      {"_type":0,"_propId":1,"_lightId":5,"name":"Neon","position":{"x":-2.139,"y":4.615,"z":22}},
+      {"_type":0,"_propId":1,"_lightId":6,"name":"Neon (1)","position":{"x":2.139,"y":-2.615,"z":22}},
       {"_type":0,"_propId":2,"_lightId":7,"name":"Neon","position":{"x":0,"y":5.2,"z":24}},
       {"_type":0,"_propId":2,"_lightId":8,"name":"Neon (1)","position":{"x":0,"y":-3.2,"z":24}},
       {"_type":0,"_propId":3,"_lightId":9,"name":"Neon","position":{"x":0,"y":5.2,"z":26}},
@@ -42,10 +42,10 @@
       {"_type":0,"_propId":14,"_lightId":32,"name":"Neon (1)","position":{"x":0,"y":-3.2,"z":48}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":3,"name":"Neon","position":{"x":22.982,"y":7.785,"z":7}},
-      {"_type":1,"_propId":0,"_lightId":4,"name":"Neon (1)","position":{"x":-22.982,"y":2.215,"z":7}},
-      {"_type":1,"_propId":1,"_lightId":5,"name":"Neon","position":{"x":23.15,"y":5,"z":15}},
-      {"_type":1,"_propId":1,"_lightId":6,"name":"Neon (1)","position":{"x":-23.15,"y":5,"z":15}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"Neon","position":{"x":21.037,"y":14.662,"z":7}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"Neon (1)","position":{"x":-21.037,"y":-4.662,"z":7}},
+      {"_type":1,"_propId":1,"_lightId":5,"name":"Neon","position":{"x":22.412,"y":10.797,"z":15}},
+      {"_type":1,"_propId":1,"_lightId":6,"name":"Neon (1)","position":{"x":-22.412,"y":-0.797,"z":15}},
       {"_type":1,"_propId":2,"_lightId":7,"name":"Neon","position":{"x":23.15,"y":5,"z":23}},
       {"_type":1,"_propId":2,"_lightId":8,"name":"Neon (1)","position":{"x":-23.15,"y":5,"z":23}},
       {"_type":1,"_propId":3,"_lightId":9,"name":"Neon","position":{"x":23.15,"y":5,"z":31}},

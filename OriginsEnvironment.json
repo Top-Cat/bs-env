@@ -16,10 +16,10 @@
       {"_type":0,"_propId":1,"_lightId":4,"name":"Laser","position":{"x":0,"y":-3.53,"z":25}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":23.15,"y":5,"z":7}},
-      {"_type":1,"_propId":0,"_lightId":4,"name":"Laser (1)","position":{"x":-23.15,"y":5,"z":7}},
-      {"_type":1,"_propId":0,"_lightId":5,"name":"Laser (2)","position":{"x":0,"y":-18.15,"z":7}},
-      {"_type":1,"_propId":0,"_lightId":6,"name":"Laser (3)","position":{"x":0,"y":28.15,"z":7}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":20.811,"y":15.14,"z":7}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"Laser (1)","position":{"x":-20.811,"y":-5.14,"z":7}},
+      {"_type":1,"_propId":0,"_lightId":5,"name":"Laser (2)","position":{"x":10.14,"y":-15.811,"z":7}},
+      {"_type":1,"_propId":0,"_lightId":6,"name":"Laser (3)","position":{"x":-10.14,"y":25.811,"z":7}},
       {"_type":1,"_propId":1,"_lightId":7,"name":"Laser","position":{"x":23.15,"y":5,"z":15}},
       {"_type":1,"_propId":1,"_lightId":8,"name":"Laser (1)","position":{"x":-23.15,"y":5,"z":15}},
       {"_type":1,"_propId":1,"_lightId":9,"name":"Laser (2)","position":{"x":0,"y":-18.15,"z":15}},
