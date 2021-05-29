@@ -28,12 +28,12 @@
       {"_type":0,"_propId":1,"_lightId":14,"name":"GlowLineL (14)","position":{"x":-5.75,"y":-3.5,"z":17.5}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowLine","position":{"x":-5.561,"y":-0.853,"z":18.54}},
-      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine (1)","position":{"x":5.561,"y":3.653,"z":18.54}},
-      {"_type":1,"_propId":1,"_lightId":5,"name":"GlowLine","position":{"x":-5.874,"y":0.178,"z":18.79}},
-      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine (1)","position":{"x":5.874,"y":2.622,"z":18.79}},
-      {"_type":1,"_propId":2,"_lightId":7,"name":"GlowLine","position":{"x":-6,"y":1.4,"z":19.04}},
-      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine (1)","position":{"x":6,"y":1.4,"z":19.04}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowLine","position":{"x":-5.071,"y":-1.808,"z":18.54}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine (1)","position":{"x":5.071,"y":4.608,"z":18.54}},
+      {"_type":1,"_propId":1,"_lightId":5,"name":"GlowLine","position":{"x":-5.255,"y":-1.496,"z":18.79}},
+      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine (1)","position":{"x":5.255,"y":4.296,"z":18.79}},
+      {"_type":1,"_propId":2,"_lightId":7,"name":"GlowLine","position":{"x":-5.634,"y":-0.664,"z":19.04}},
+      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine (1)","position":{"x":5.634,"y":3.464,"z":19.04}},
       {"_type":1,"_propId":3,"_lightId":9,"name":"GlowLine","position":{"x":-6,"y":1.4,"z":19.29}},
       {"_type":1,"_propId":3,"_lightId":10,"name":"GlowLine (1)","position":{"x":6,"y":1.4,"z":19.29}},
       {"_type":1,"_propId":4,"_lightId":11,"name":"GlowLine","position":{"x":-6,"y":1.4,"z":19.54}},

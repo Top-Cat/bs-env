@@ -10,53 +10,53 @@
   },
   "props" : {
     "0" : [
-      {"_type":0,"_propId":0,"_lightId":3,"name":"Laser (11)","position":{"x":-1,"y":-1,"z":20}},
-      {"_type":0,"_propId":0,"_lightId":5,"name":"Laser (12)","position":{"x":1,"y":-1,"z":20}},
-      {"_type":0,"_propId":3,"_lightId":9,"name":"Laser (10)","position":{"x":1,"y":-1,"z":30}},
-      {"_type":0,"_propId":3,"_lightId":11,"name":"Laser (9)","position":{"x":-1,"y":-1,"z":30}},
-      {"_type":0,"_propId":2,"_lightId":8,"name":"Laser (8)","position":{"x":1,"y":-1,"z":40}},
-      {"_type":0,"_propId":2,"_lightId":12,"name":"Laser (7)","position":{"x":-1,"y":-1,"z":40}},
-      {"_type":0,"_propId":1,"_lightId":4,"name":"Laser (5)","position":{"x":1,"y":-1,"z":50}},
-      {"_type":0,"_propId":1,"_lightId":10,"name":"Laser (4)","position":{"x":-1,"y":-1,"z":50}}
+      {"_type":0,"_propId":0,"_lightId":4,"name":"Laser (11)","position":{"x":-1,"y":-1,"z":20}},
+      {"_type":0,"_propId":0,"_lightId":6,"name":"Laser (12)","position":{"x":1,"y":-1,"z":20}},
+      {"_type":0,"_propId":3,"_lightId":10,"name":"Laser (10)","position":{"x":1,"y":-1,"z":30}},
+      {"_type":0,"_propId":3,"_lightId":12,"name":"Laser (9)","position":{"x":-1,"y":-1,"z":30}},
+      {"_type":0,"_propId":2,"_lightId":9,"name":"Laser (8)","position":{"x":1,"y":-1,"z":40}},
+      {"_type":0,"_propId":2,"_lightId":13,"name":"Laser (7)","position":{"x":-1,"y":-1,"z":40}},
+      {"_type":0,"_propId":1,"_lightId":5,"name":"Laser (5)","position":{"x":1,"y":-1,"z":50}},
+      {"_type":0,"_propId":1,"_lightId":11,"name":"Laser (4)","position":{"x":-1,"y":-1,"z":50}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowTopLine (10)","position":{"x":-6,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowTopLine (9)","position":{"x":4,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":6,"name":"GlowTopLine (7)","position":{"x":2,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":8,"name":"GlowTopLine (6)","position":{"x":-2,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":9,"name":"GlowTopLine (11)","position":{"x":6,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":10,"name":"GlowTopLine (5)","position":{"x":0,"y":6,"z":7.5}},
-      {"_type":1,"_propId":0,"_lightId":11,"name":"GlowTopLine (8)","position":{"x":-4,"y":6,"z":7.5}}
+      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowTopLine (10)","position":{"x":-6,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":5,"name":"GlowTopLine (9)","position":{"x":4,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":7,"name":"GlowTopLine (7)","position":{"x":2,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":9,"name":"GlowTopLine (6)","position":{"x":-2,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":10,"name":"GlowTopLine (11)","position":{"x":6,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":11,"name":"GlowTopLine (5)","position":{"x":0,"y":6,"z":7.5}},
+      {"_type":1,"_propId":0,"_lightId":12,"name":"GlowTopLine (8)","position":{"x":-4,"y":6,"z":7.5}}
     ],
     "2" : [
-      {"_type":2,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":-11,"y":1.5,"z":35}},
-      {"_type":2,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":-10,"y":1.5,"z":35}},
-      {"_type":2,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":-12,"y":1.5,"z":35}},
-      {"_type":2,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":-9,"y":1.5,"z":35}},
-      {"_type":2,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":-8,"y":1.5,"z":35}}
+      {"_type":2,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":-11,"y":1.5,"z":35}},
+      {"_type":2,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":-10,"y":1.5,"z":35}},
+      {"_type":2,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":-12,"y":1.5,"z":35}},
+      {"_type":2,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":-9,"y":1.5,"z":35}},
+      {"_type":2,"_propId":0,"_lightId":6,"name":"Laser","position":{"x":-8,"y":1.5,"z":35}}
     ],
     "3" : [
-      {"_type":3,"_propId":0,"_lightId":1,"name":"Laser","position":{"x":11,"y":1.5,"z":35}},
-      {"_type":3,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":10,"y":1.5,"z":35}},
-      {"_type":3,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":12,"y":1.5,"z":35}},
-      {"_type":3,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":9,"y":1.5,"z":35}},
-      {"_type":3,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":8,"y":1.5,"z":35}}
+      {"_type":3,"_propId":0,"_lightId":2,"name":"Laser","position":{"x":11,"y":1.5,"z":35}},
+      {"_type":3,"_propId":0,"_lightId":3,"name":"Laser","position":{"x":10,"y":1.5,"z":35}},
+      {"_type":3,"_propId":0,"_lightId":4,"name":"Laser","position":{"x":12,"y":1.5,"z":35}},
+      {"_type":3,"_propId":0,"_lightId":5,"name":"Laser","position":{"x":9,"y":1.5,"z":35}},
+      {"_type":3,"_propId":0,"_lightId":6,"name":"Laser","position":{"x":8,"y":1.5,"z":35}}
     ],
     "4" : [
       {"_type":4,"_propId":1,"_lightId":2,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
       {"_type":4,"_propId":1,"_lightId":3,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
-      {"_type":4,"_propId":3,"_lightId":9,"name":"Neon (1)","position":{"x":22.5,"y":14.5,"z":5}},
-      {"_type":4,"_propId":3,"_lightId":10,"name":"Neon (1)","position":{"x":-22.5,"y":14.5,"z":5}},
-      {"_type":4,"_propId":4,"_lightId":13,"name":"GlowLineL (1)","position":{"x":-4,"y":0,"z":7.8}},
-      {"_type":4,"_propId":4,"_lightId":17,"name":"GlowLineR (1)","position":{"x":4,"y":-0.04,"z":7.8}},
-      {"_type":4,"_propId":0,"_lightId":19,"name":"GlowLineL","position":{"x":-2.25,"y":0,"z":8.6}},
-      {"_type":4,"_propId":0,"_lightId":20,"name":"GlowLineR","position":{"x":2.25,"y":0,"z":8.6}},
+      {"_type":4,"_propId":3,"_lightId":10,"name":"Neon (1)","position":{"x":22.5,"y":14.5,"z":5}},
+      {"_type":4,"_propId":3,"_lightId":11,"name":"Neon (1)","position":{"x":-22.5,"y":14.5,"z":5}},
+      {"_type":4,"_propId":4,"_lightId":14,"name":"GlowLineL (1)","position":{"x":-4,"y":0,"z":7.8}},
+      {"_type":4,"_propId":4,"_lightId":18,"name":"GlowLineR (1)","position":{"x":4,"y":-0.04,"z":7.8}},
+      {"_type":4,"_propId":0,"_lightId":20,"name":"GlowLineL","position":{"x":-2.25,"y":0,"z":8.6}},
+      {"_type":4,"_propId":0,"_lightId":21,"name":"GlowLineR","position":{"x":2.25,"y":0,"z":8.6}},
       {"_type":4,"_propId":0,"_lightId":0,"name":"Neon (2)","position":{"x":25,"y":47,"z":9}},
       {"_type":4,"_propId":0,"_lightId":1,"name":"Neon","position":{"x":-22.5,"y":17,"z":9}},
-      {"_type":4,"_propId":0,"_lightId":7,"name":"Neon (2)","position":{"x":-25,"y":47,"z":9}},
-      {"_type":4,"_propId":0,"_lightId":11,"name":"Neon","position":{"x":22.5,"y":17,"z":9}},
-      {"_type":4,"_propId":5,"_lightId":16,"name":"MonstercatLogoL","position":{"x":-12,"y":3.83,"z":14.45}},
-      {"_type":4,"_propId":5,"_lightId":18,"name":"MonstercatLogoR","position":{"x":12,"y":3.83,"z":14.45}},
+      {"_type":4,"_propId":0,"_lightId":8,"name":"Neon (2)","position":{"x":-25,"y":47,"z":9}},
+      {"_type":4,"_propId":0,"_lightId":12,"name":"Neon","position":{"x":22.5,"y":17,"z":9}},
+      {"_type":4,"_propId":5,"_lightId":17,"name":"MonstercatLogoL","position":{"x":-12,"y":3.83,"z":14.45}},
+      {"_type":4,"_propId":5,"_lightId":19,"name":"MonstercatLogoR","position":{"x":12,"y":3.83,"z":14.45}},
       {"_type":4,"_propId":2,"_lightId":4,"name":"NeonTube (1)","position":{"x":0.05,"y":4.65,"z":65}},
       {"_type":4,"_propId":2,"_lightId":6,"name":"NeonTube","position":{"x":-0.05,"y":4.65,"z":65}}
     ]
