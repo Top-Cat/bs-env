@@ -28,12 +28,12 @@
       {"_type":0,"_propId":1,"_lightId":14,"name":"GlowLineL (14)","position":{"x":-5.75,"y":-3.5,"z":17.5}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowLine","position":{"x":-5.012,"y":-1.898,"z":18.54}},
-      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine (1)","position":{"x":5.012,"y":4.698,"z":18.54}},
-      {"_type":1,"_propId":1,"_lightId":5,"name":"GlowLine","position":{"x":-5.165,"y":-1.653,"z":18.79}},
-      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine (1)","position":{"x":5.165,"y":4.453,"z":18.79}},
-      {"_type":1,"_propId":2,"_lightId":7,"name":"GlowLine","position":{"x":-5.525,"y":-0.94,"z":19.04}},
-      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine (1)","position":{"x":5.525,"y":3.74,"z":19.04}},
+      {"_type":1,"_propId":0,"_lightId":3,"name":"GlowLine","position":{"x":-4.879,"y":-2.092,"z":18.54}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine (1)","position":{"x":4.879,"y":4.892,"z":18.54}},
+      {"_type":1,"_propId":1,"_lightId":5,"name":"GlowLine","position":{"x":-4.956,"y":-1.982,"z":18.79}},
+      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine (1)","position":{"x":4.956,"y":4.782,"z":18.79}},
+      {"_type":1,"_propId":2,"_lightId":7,"name":"GlowLine","position":{"x":-5.242,"y":-1.52,"z":19.04}},
+      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine (1)","position":{"x":5.242,"y":4.32,"z":19.04}},
       {"_type":1,"_propId":3,"_lightId":9,"name":"GlowLine","position":{"x":-6,"y":1.4,"z":19.29}},
       {"_type":1,"_propId":3,"_lightId":10,"name":"GlowLine (1)","position":{"x":6,"y":1.4,"z":19.29}},
       {"_type":1,"_propId":4,"_lightId":11,"name":"GlowLine","position":{"x":-6,"y":1.4,"z":19.54}},
