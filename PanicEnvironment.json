@@ -14,12 +14,12 @@
       {"_type":0,"_propId":0,"_lightId":7,"name":"ConstructionGlowLine (7)","position":{"x":3,"y":-2,"z":0}}
     ],
     "1" : [
-      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine","position":{"x":-1.742,"y":-2.601,"z":9.6}},
-      {"_type":1,"_propId":0,"_lightId":5,"name":"GlowLine","position":{"x":1.742,"y":4.601,"z":9.6}},
-      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine","position":{"x":-2.344,"y":-2.241,"z":10.6}},
-      {"_type":1,"_propId":1,"_lightId":7,"name":"GlowLine","position":{"x":2.344,"y":4.241,"z":10.6}},
-      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine","position":{"x":-3.258,"y":-1.321,"z":11.6}},
-      {"_type":1,"_propId":2,"_lightId":9,"name":"GlowLine","position":{"x":3.258,"y":3.321,"z":11.6}},
+      {"_type":1,"_propId":0,"_lightId":4,"name":"GlowLine","position":{"x":-1.747,"y":-2.598,"z":9.6}},
+      {"_type":1,"_propId":0,"_lightId":5,"name":"GlowLine","position":{"x":1.747,"y":4.598,"z":9.6}},
+      {"_type":1,"_propId":1,"_lightId":6,"name":"GlowLine","position":{"x":-2.351,"y":-2.236,"z":10.6}},
+      {"_type":1,"_propId":1,"_lightId":7,"name":"GlowLine","position":{"x":2.351,"y":4.236,"z":10.6}},
+      {"_type":1,"_propId":2,"_lightId":8,"name":"GlowLine","position":{"x":-3.266,"y":-1.309,"z":11.6}},
+      {"_type":1,"_propId":2,"_lightId":9,"name":"GlowLine","position":{"x":3.266,"y":3.309,"z":11.6}},
       {"_type":1,"_propId":3,"_lightId":10,"name":"GlowLine","position":{"x":-4,"y":1,"z":12.6}},
       {"_type":1,"_propId":3,"_lightId":11,"name":"GlowLine","position":{"x":4,"y":1,"z":12.6}},
       {"_type":1,"_propId":4,"_lightId":12,"name":"GlowLine","position":{"x":-4,"y":1,"z":13.6}},

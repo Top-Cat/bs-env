@@ -66,10 +66,6 @@
       {"_type":2,"_propId":9,"_lightId":13,"name":"LaserL","position":{"x":-4.85,"y":1.4,"z":45.7}}
     ],
     "3" : [
-      {"_type":3,"_propId":10,"_lightId":14,"name":"TimbalandLogo","position":{"x":-20.23,"y":1.43,"z":28.93}},
-      {"_type":3,"_propId":10,"_lightId":18,"name":"TimbalandLogo (2)","position":{"x":20.23,"y":1.43,"z":28.93}},
-      {"_type":3,"_propId":10,"_lightId":15,"name":"TimbalandLogo (1)","position":{"x":-19.911,"y":1.721,"z":29.468}},
-      {"_type":3,"_propId":10,"_lightId":19,"name":"TimbalandLogo (3)","position":{"x":19.911,"y":1.721,"z":29.468}},
       {"_type":3,"_propId":0,"_lightId":4,"name":"LaserR","position":{"x":4.85,"y":1.4,"z":32.2}},
       {"_type":3,"_propId":1,"_lightId":5,"name":"LaserR","position":{"x":4.85,"y":1.4,"z":33.7}},
       {"_type":3,"_propId":2,"_lightId":6,"name":"LaserR","position":{"x":4.85,"y":1.4,"z":35.2}},
