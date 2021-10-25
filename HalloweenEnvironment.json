@@ -1,0 +1,70 @@
+{
+  "colorScheme" : {
+    "_colorLeft" : {"r":0.81960785,"g":0.49807876,"b":0.27702752},
+    "_colorRight" : {"r":0.37894738,"g":0.35789475,"b":0.40000001},
+    "_envColorLeft" : {"r":0.90196079,"g":0.23009226,"b":0},
+    "_envColorRight" : {"r":0.46005884,"g":0.56889427,"b":0.92941177},
+    "_obstacleColor" : {"r":0.81960791,"g":0.44313729,"b":0.18431373},
+    "_envColorLeftBoost" : {"r":0.33768433,"g":0.63207543,"b":0.33690813},
+    "_envColorRightBoost" : {"r":0.60209066,"g":0.3280082,"b":0.85849059}
+  },
+  "props" : {
+    "0" : [
+      {"_type":0,"_propId":0,"_lightId":3,"name":"GlowLineL (8)","position":{"x":6,"y":11.5,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":6,"name":"GlowLineL (7)","position":{"x":5,"y":11.5,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":7,"name":"GlowLineL (6)","position":{"x":-5,"y":11.25,"z":0}},
+      {"_type":0,"_propId":0,"_lightId":8,"name":"GlowLineL (9)","position":{"x":-6,"y":11.25,"z":0}}
+    ],
+    "1" : [
+      {"_type":1,"_propId":1,"_lightId":7,"name":"NeonTubeC","position":{"x":0,"y":-0.8,"z":60}},
+      {"_type":1,"_propId":0,"_lightId":5,"name":"Moon","position":{"x":-8.7,"y":40.5,"z":112}},
+      {"_type":1,"_propId":0,"_lightId":6,"name":"NeonTube","position":{"x":-8.7,"y":40.5,"z":112}}
+    ],
+    "2" : [
+      {"_type":2,"_propId":0,"_lightId":1,"name":"NeonTubeL (1)","position":{"x":-15,"y":0.1,"z":8.3}},
+      {"_type":2,"_propId":1,"_lightId":3,"name":"Laser","position":{"x":-25,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":4,"name":"Laser","position":{"x":-40,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":5,"name":"Laser","position":{"x":-30,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":6,"name":"Laser","position":{"x":-45,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":7,"name":"Laser","position":{"x":-37.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":8,"name":"Laser","position":{"x":-42.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":9,"name":"Laser","position":{"x":-15,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":10,"name":"Laser","position":{"x":-47.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":11,"name":"Laser","position":{"x":-17.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":12,"name":"Laser","position":{"x":-20,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":13,"name":"Laser","position":{"x":-22.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":14,"name":"Laser","position":{"x":-35,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":15,"name":"Laser","position":{"x":-50,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":16,"name":"Laser","position":{"x":-32.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":17,"name":"Laser","position":{"x":-27.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":18,"name":"Laser","position":{"x":-52.5,"y":0.25,"z":65}},
+      {"_type":2,"_propId":1,"_lightId":19,"name":"Laser","position":{"x":-55,"y":0.25,"z":65}}
+    ],
+    "3" : [
+      {"_type":3,"_propId":0,"_lightId":1,"name":"NeonTubeR (1)","position":{"x":15,"y":0.1,"z":8.3}},
+      {"_type":3,"_propId":1,"_lightId":3,"name":"Laser","position":{"x":40,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":4,"name":"Laser","position":{"x":25,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":5,"name":"Laser","position":{"x":45,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":6,"name":"Laser","position":{"x":30,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":7,"name":"Laser","position":{"x":37.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":8,"name":"Laser","position":{"x":15,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":9,"name":"Laser","position":{"x":42.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":10,"name":"Laser","position":{"x":20,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":11,"name":"Laser","position":{"x":17.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":12,"name":"Laser","position":{"x":47.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":13,"name":"Laser","position":{"x":35,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":14,"name":"Laser","position":{"x":22.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":15,"name":"Laser","position":{"x":55,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":16,"name":"Laser","position":{"x":52.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":17,"name":"Laser","position":{"x":32.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":18,"name":"Laser","position":{"x":27.5,"y":0.25,"z":65}},
+      {"_type":3,"_propId":1,"_lightId":19,"name":"Laser","position":{"x":50,"y":0.25,"z":65}}
+    ],
+    "4" : [
+      {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
+      {"_type":4,"_propId":1,"_lightId":2,"name":"NeonTubeR","position":{"x":1.3,"y":0.1,"z":8.3}},
+      {"_type":4,"_propId":1,"_lightId":3,"name":"NeonTubeL","position":{"x":-1.3,"y":0.1,"z":8.3}},
+      {"_type":4,"_propId":2,"_lightId":6,"name":"GateLight","position":{"x":0,"y":2.28,"z":50}}
+    ]
+  }
+}
