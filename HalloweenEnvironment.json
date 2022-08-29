@@ -17,8 +17,8 @@
     ],
     "1" : [
       {"_type":1,"_propId":1,"_lightId":7,"name":"NeonTubeC","position":{"x":0,"y":-0.8,"z":60}},
-      {"_type":1,"_propId":0,"_lightId":5,"name":"Moon","position":{"x":-8.7,"y":40.5,"z":112}},
-      {"_type":1,"_propId":0,"_lightId":6,"name":"NeonTube","position":{"x":-8.7,"y":40.5,"z":112}}
+      {"_type":1,"_propId":0,"_lightId":5,"name":"Moon","position":{"x":-8.7,"y":35.5,"z":112}},
+      {"_type":1,"_propId":0,"_lightId":6,"name":"NeonTube","position":{"x":-8.7,"y":35.5,"z":112}}
     ],
     "2" : [
       {"_type":2,"_propId":0,"_lightId":1,"name":"NeonTubeL (1)","position":{"x":-15,"y":0.1,"z":8.3}},

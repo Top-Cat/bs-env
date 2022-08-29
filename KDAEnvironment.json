@@ -47,7 +47,7 @@
     "4" : [
       {"_type":4,"_propId":0,"_lightId":15,"name":"GlowLine (70)","position":{"x":-6.658,"y":0,"z":-0.335}},
       {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
-      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
+      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.008,"z":0}},
       {"_type":4,"_propId":0,"_lightId":36,"name":"GlowLine (64)","position":{"x":8.25,"y":0,"z":0.15}},
       {"_type":4,"_propId":22,"_lightId":80,"name":"GlowLine (63)","position":{"x":10.24,"y":0,"z":1.62}},
       {"_type":4,"_propId":22,"_lightId":38,"name":"GlowLine (69)","position":{"x":-6.386,"y":0,"z":2.124}},

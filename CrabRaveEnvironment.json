@@ -44,7 +44,7 @@
     ],
     "4" : [
       {"_type":4,"_propId":1,"_lightId":2,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
-      {"_type":4,"_propId":1,"_lightId":3,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
+      {"_type":4,"_propId":1,"_lightId":3,"name":"RectangleFakeGlow","position":{"x":0,"y":0.008,"z":0}},
       {"_type":4,"_propId":3,"_lightId":10,"name":"Neon (1)","position":{"x":22.5,"y":14.5,"z":5}},
       {"_type":4,"_propId":3,"_lightId":11,"name":"Neon (1)","position":{"x":-22.5,"y":14.5,"z":5}},
       {"_type":4,"_propId":4,"_lightId":14,"name":"GlowLineL (1)","position":{"x":-4,"y":0,"z":7.8}},

@@ -53,7 +53,7 @@
     ],
     "4" : [
       {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
-      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}}
+      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.008,"z":0}}
     ]
   }
 }

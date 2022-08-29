@@ -100,7 +100,7 @@
     ],
     "4" : [
       {"_type":4,"_propId":0,"_lightId":0,"name":"Feet","position":{"x":0,"y":0.005,"z":0}},
-      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.01,"z":0}},
+      {"_type":4,"_propId":0,"_lightId":1,"name":"RectangleFakeGlow","position":{"x":0,"y":0.008,"z":0}},
       {"_type":4,"_propId":1,"_lightId":9,"name":"GlowLineC","position":{"x":0,"y":-0.05,"z":3.67}},
       {"_type":4,"_propId":1,"_lightId":8,"name":"GlowLineL","position":{"x":-0.6,"y":-0.05,"z":3.68}},
       {"_type":4,"_propId":1,"_lightId":11,"name":"GlowLineR","position":{"x":0.6,"y":-0.05,"z":3.68}},
